@@ -14,4 +14,9 @@
 
 - 📫 tiagomarcosads@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/feed/tiagolesmo)  
-- 💻 [Portfólio](https://github.com/tiagocodeclean)  
+- 💻 [Portfólio](https://github.com/tiagocodeclean)
+
+![Python](https://skillicons.dev/icons?i=python)
+![PowerBI](https://skillicons.dev/icons?i=powerbi)
+![Docker](https://skillicons.dev/icons?i=docker)
+![GCP](https://skillicons.dev/icons?i=gcp)
