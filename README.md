@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=powerpoint" alt="Power BI" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=postgresql" alt="SQL" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
