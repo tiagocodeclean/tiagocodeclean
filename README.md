@@ -1,4 +1,4 @@
-# Olá, eu sou o Tiago Lesmo 👋
+# Olá, eu sou o Tiago 👋
 
 🚀 Analista de Dados focado em construção de pipelines ETL e soluções escaláveis  
 📊 Experiência em Power BI, Python (assistido por IA), BigQuery, Airflow, Docker, PostgreSQL  
