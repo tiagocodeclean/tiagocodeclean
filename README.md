@@ -16,7 +16,12 @@
 - 🔗 [LinkedIn](https://linkedin.com/feed/tiagolesmo)  
 - 💻 [Portfólio](https://github.com/tiagocodeclean)
 
-![Python](https://skillicons.dev/icons?i=python)
-![PowerBI](https://skillicons.dev/icons?i=powerbi)
-![Docker](https://skillicons.dev/icons?i=docker)
-![GCP](https://skillicons.dev/icons?i=gcp)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=sql" alt="SQL" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=airflow" alt="Airflow" width="40" height="40" />
+</p>
