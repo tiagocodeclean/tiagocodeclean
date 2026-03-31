@@ -14,7 +14,7 @@
 
 - 📫 tiagomarcosads@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/feed/tiagolesmo)  
-- 💻 [Portfólio](https://github.com/tiagocodeclean)
+- 💻 [Portfólio de Dashboads em Power BI](https://www.notion.so/Portf-lio-de-Projetos-ab5bbde5bf98835da07381f0093e8cd4?source=copy_link)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
